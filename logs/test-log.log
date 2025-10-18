@@ -1,0 +1,618 @@
+[2025-10-15 20:45:59] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-15 20:46:02] [main] INFO  TC_002Login:19 - Starting login test
+[2025-10-15 20:48:17] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-15 20:48:19] [main] INFO  TC_002Login:19 - Starting login test
+[2025-10-15 20:49:38] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-15 20:49:41] [main] INFO  TC_002Login:20 - Starting login test
+[2025-10-15 20:57:21] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-15 20:57:24] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-15 20:57:29] [main] INFO  TC_002Login:22 - Clicking login btn
+[2025-10-15 20:57:40] [main] INFO  TC_002Login:31 - Enter user details & login btn clicked
+[2025-10-15 20:57:45] [main] INFO  TC_002Login:45 - Finished Login Test
+[2025-10-16 15:17:00] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-16 15:17:06] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:17:06] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:17:06] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:17:06] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:17:07] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:17:07] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:17:07] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:17:07] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:17:07] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:17:07] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:31] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-16 15:27:34] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:27:35] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:27:35] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:27:35] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-16 15:27:35] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-16 15:27:36] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-16 15:27:37] [main] INFO  TC_003LoginDDT:66 - Finished LoginDDT
+[2025-10-16 15:27:37] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-16 15:27:37] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-16 15:27:38] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-16 15:27:43] [main] INFO  TC_003LoginDDT:66 - Finished LoginDDT
+[2025-10-16 15:27:43] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-16 15:27:43] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-16 15:27:44] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-16 15:27:49] [main] INFO  TC_003LoginDDT:66 - Finished LoginDDT
+[2025-10-16 15:27:49] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-16 15:27:50] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-16 15:27:51] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-16 15:27:52] [main] INFO  TC_003LoginDDT:66 - Finished LoginDDT
+[2025-10-16 15:27:52] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-16 15:27:52] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-16 15:27:54] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-16 15:27:59] [main] INFO  TC_003LoginDDT:66 - Finished LoginDDT
+[2025-10-16 15:36:34] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-16 15:36:37] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-16 15:36:37] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-16 15:36:37] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-16 15:36:37] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-16 15:36:38] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-16 15:36:39] [main] INFO  TC_003LoginDDT:66 - Finished LoginDDT
+[2025-10-16 15:36:39] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-16 15:36:39] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-16 15:36:40] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-16 15:36:46] [main] INFO  TC_003LoginDDT:66 - Finished LoginDDT
+[2025-10-16 15:36:46] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-16 15:36:46] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-16 15:36:46] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-16 15:36:48] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-16 15:36:48] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-16 15:36:49] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-16 17:27:56] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\grouping.xml"
+[2025-10-16 17:28:46] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\grouping.xml"
+[2025-10-16 17:32:11] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\grouping.xml"
+[2025-10-16 17:32:14] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-16 17:32:14] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-16 17:32:15] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-16 17:32:15] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-16 17:32:19] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-16 17:32:19] [main] ERROR TC_001AccountRegistration:46 - Test failed
+[2025-10-16 17:32:19] [main] DEBUG TC_001AccountRegistration:47 - Debug logs
+[2025-10-16 17:32:22] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 17:32:22] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 17:32:23] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 17:32:23] [main] INFO  TC_002Login:42 - Finished Login Test
+[2025-10-16 20:13:53] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 20:13:57] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 20:13:57] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 20:13:58] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 20:13:58] [main] INFO  TC_002Login:42 - Finished Login Test
+[2025-10-16 20:21:30] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 20:21:33] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 20:21:33] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 20:21:33] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 20:21:34] [main] INFO  TC_002Login:42 - Finished Login Test
+[2025-10-16 20:33:22] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 20:33:25] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 20:33:25] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 20:33:25] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 20:33:26] [main] INFO  TC_002Login:42 - Finished Login Test
+[2025-10-16 20:34:24] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 20:34:27] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 20:34:27] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 20:34:28] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 20:34:28] [main] INFO  TC_002Login:42 - Finished Login Test
+[2025-10-16 20:37:04] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 20:37:07] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 20:37:07] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 20:37:08] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 20:38:39] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 20:38:42] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 20:38:42] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 20:38:43] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 20:43:40] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 20:43:42] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 20:43:42] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 20:43:43] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 20:57:20] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 20:57:23] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 20:57:23] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 20:57:24] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 21:01:23] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 21:01:26] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 21:01:26] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 21:01:27] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 22:47:03] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 22:47:09] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 22:47:09] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 22:47:09] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 22:47:17] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-16 22:47:17] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-16 22:47:17] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-16 22:47:17] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-16 22:47:20] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-16 22:47:20] [main] ERROR TC_001AccountRegistration:46 - Test failed
+[2025-10-16 22:47:20] [main] DEBUG TC_001AccountRegistration:47 - Debug logs
+[2025-10-16 23:21:03] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 23:21:06] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 23:21:06] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 23:21:07] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 23:21:14] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-16 23:21:14] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-16 23:21:15] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-16 23:21:15] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-16 23:21:18] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-16 23:21:18] [main] ERROR TC_001AccountRegistration:46 - Test failed
+[2025-10-16 23:21:18] [main] DEBUG TC_001AccountRegistration:47 - Debug logs
+[2025-10-16 23:28:48] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 23:28:50] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 23:28:51] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 23:28:51] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 23:28:53] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-16 23:28:53] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-16 23:28:54] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-16 23:28:54] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-16 23:36:32] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 23:36:35] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 23:36:35] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 23:36:36] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 23:36:43] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-16 23:36:43] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-16 23:36:44] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-16 23:36:44] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-16 23:36:46] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-16 23:36:47] [main] ERROR TC_001AccountRegistration:46 - Test failed
+[2025-10-16 23:36:47] [main] DEBUG TC_001AccountRegistration:47 - Debug logs
+[2025-10-16 23:39:30] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 23:39:32] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 23:39:32] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 23:39:33] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 23:39:40] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-16 23:39:40] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-16 23:39:41] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-16 23:39:41] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-16 23:39:43] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-16 23:39:44] [main] ERROR TC_001AccountRegistration:46 - Test failed
+[2025-10-16 23:39:44] [main] DEBUG TC_001AccountRegistration:47 - Debug logs
+[2025-10-16 23:45:13] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 23:45:15] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 23:45:16] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 23:45:16] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 23:45:23] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-16 23:45:24] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-16 23:45:24] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-16 23:45:24] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-16 23:45:27] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-16 23:45:27] [main] ERROR TC_001AccountRegistration:46 - Test failed
+[2025-10-16 23:45:27] [main] DEBUG TC_001AccountRegistration:47 - Debug logs
+[2025-10-16 23:50:05] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 23:50:09] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 23:50:09] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 23:50:09] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 23:50:17] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-16 23:50:17] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-16 23:50:17] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-16 23:50:17] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-16 23:50:21] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-16 23:50:21] [main] ERROR TC_001AccountRegistration:46 - Test failed
+[2025-10-16 23:50:21] [main] DEBUG TC_001AccountRegistration:47 - Debug logs
+[2025-10-16 23:51:29] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 23:51:32] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 23:51:32] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 23:51:32] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 23:51:40] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-16 23:51:40] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-16 23:51:40] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-16 23:51:40] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-16 23:51:43] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-16 23:51:44] [main] ERROR TC_001AccountRegistration:46 - Test failed
+[2025-10-16 23:51:44] [main] DEBUG TC_001AccountRegistration:47 - Debug logs
+[2025-10-16 23:55:00] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-16 23:55:04] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-16 23:55:04] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-16 23:55:05] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-16 23:55:12] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-16 23:55:12] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-16 23:55:12] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-16 23:55:12] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-16 23:55:15] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-16 23:55:15] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 00:03:06] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:03:08] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:03:08] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:03:09] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 00:03:17] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:03:17] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 00:03:18] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 00:03:18] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 00:03:22] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 00:03:22] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 00:16:58] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:17:01] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:17:01] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:17:01] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 00:17:09] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:17:10] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 00:17:10] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 00:17:10] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 00:17:13] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 00:17:14] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 00:20:24] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:20:27] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:20:27] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:20:29] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:25:17] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:25:21] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:25:21] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:25:21] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 00:25:30] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:25:30] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 00:25:30] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 00:25:30] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 00:25:33] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 00:25:34] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 00:25:59] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:26:02] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:26:03] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:26:03] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 00:26:11] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:26:11] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 00:26:12] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 00:26:12] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 00:26:16] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 00:26:16] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 00:38:42] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:38:45] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:38:45] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:38:46] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 00:38:54] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:38:54] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 00:38:55] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 00:38:55] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 00:38:59] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 00:38:59] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 00:47:36] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[2025-10-17 00:47:39] [main] DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+[2025-10-17 00:47:39] [main] DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[2025-10-17 00:47:39] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-17 00:47:39] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-17 00:47:40] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-17 00:47:45] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-17 00:47:45] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-17 00:47:46] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-17 00:47:52] [main] INFO  TC_003LoginDDT:66 - Finished LoginDDT
+[2025-10-17 00:47:52] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-17 00:47:52] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-17 00:47:53] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-17 00:47:58] [main] INFO  TC_003LoginDDT:66 - Finished LoginDDT
+[2025-10-17 00:47:58] [main] INFO  TC_003LoginDDT:17 - Starting LoginDDT
+[2025-10-17 00:47:58] [main] INFO  TC_003LoginDDT:21 - Clicking login btn
+[2025-10-17 00:47:59] [main] INFO  TC_003LoginDDT:28 - Enter user details & login btn clicked
+[2025-10-17 00:48:55] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:48:58] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:48:58] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:48:59] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 00:49:07] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:49:07] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 00:49:09] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 00:49:09] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 00:49:13] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 00:49:13] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 00:50:12] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:50:15] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:50:16] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:50:16] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 00:50:17] [main] INFO  TC_002Login:42 - Finished Login Test
+[2025-10-17 00:50:19] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:50:20] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 00:50:20] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 00:50:20] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 00:50:44] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:50:46] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:50:47] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:50:47] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 00:50:48] [main] INFO  TC_002Login:42 - Finished Login Test
+[2025-10-17 00:50:50] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:50:50] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 00:50:51] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 00:50:51] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 00:50:55] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 00:50:55] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 00:51:34] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:51:36] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:51:36] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:51:37] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 00:51:45] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:51:46] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 00:51:46] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 00:51:46] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 00:51:50] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 00:51:50] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 00:52:40] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\extentreportlistener.xml"
+[2025-10-17 00:52:43] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:52:43] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:52:44] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 00:52:52] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 00:52:52] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 00:52:53] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 00:52:53] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 00:52:56] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 00:52:57] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 00:56:44] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\target\surefire-reports\testng-failed.xml"
+[2025-10-17 00:56:46] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 00:56:47] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 00:56:47] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 14:37:40] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-17 14:37:45] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 14:37:45] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 14:37:46] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 15:42:57] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-17 15:45:14] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-17 15:45:17] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 15:45:17] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 15:45:18] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 15:46:37] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-17 15:58:26] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-17 15:58:29] [main] INFO  TC_002Login:18 - Starting login test
+[2025-10-17 15:58:29] [main] INFO  TC_002Login:21 - Clicking login btn
+[2025-10-17 15:58:29] [main] INFO  TC_002Login:29 - Enter user details & login btn clicked
+[2025-10-17 15:59:35] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\testng.xml"
+[2025-10-17 15:59:37] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 15:59:37] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 15:59:38] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 15:59:38] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 15:59:41] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 15:59:41] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 23:27:39] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:27:44] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 23:27:44] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 23:27:45] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 23:27:45] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 23:30:08] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:30:12] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 23:34:38] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:34:44] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 23:34:44] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 23:34:45] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 23:34:45] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 23:34:48] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 23:34:48] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 23:35:35] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:36:56] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:42:33] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:42:36] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 23:42:36] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 23:42:37] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 23:42:37] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 23:42:40] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 23:42:41] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 23:45:46] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:45:46] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 23:46:14] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:46:14] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 23:47:26] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:47:30] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 23:47:30] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 23:47:31] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 23:47:31] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 23:47:34] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 23:47:35] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 23:49:27] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:50:14] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:50:14] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 23:57:59] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:57:59] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 23:58:55] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-17 23:59:01] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-17 23:59:01] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-17 23:59:02] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-17 23:59:02] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-17 23:59:05] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-17 23:59:05] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-17 23:59:55] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-18 00:00:37] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-18 00:00:56] [main] DEBUG TestNG:82 - suiteXmlPath: "C:\Project\Selenium\HybridFrameWork\griddocker.xml"
+[2025-10-18 00:00:59] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-18 00:01:00] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-18 00:01:00] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-18 00:01:00] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-18 00:01:04] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-18 00:01:04] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-18 00:01:08] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-18 00:01:08] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-18 00:01:09] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-18 00:01:09] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-18 00:01:12] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-18 00:01:12] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-18 16:19:22] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-18 16:19:22] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-18 16:19:22] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-18 16:19:22] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-18 16:19:25] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-18 16:19:26] [main] INFO  TC_001AccountRegistration:55 - Test finished
+[2025-10-18 16:29:35] [main] INFO  TC_001AccountRegistration:14 - Starting TC_001AccountRegistration
+[2025-10-18 16:29:35] [main] INFO  TC_001AccountRegistration:19 - Clicked on My Account
+[2025-10-18 16:29:36] [main] INFO  TC_001AccountRegistration:22 - Clicked on Register Link
+[2025-10-18 16:29:36] [main] INFO  TC_001AccountRegistration:26 - Proving user details
+[2025-10-18 16:29:38] [main] INFO  TC_001AccountRegistration:39 - Validating expected msg
+[2025-10-18 16:29:39] [main] INFO  TC_001AccountRegistration:55 - Test finished

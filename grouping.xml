@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <groups>
+        <run>
+            <include name="Sanity"/>
+            <include name="Regression"/>
+        </run>
+    </groups>
+
+    <test thread-count="5" name="My Tests">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="testcases.TC_001AccountRegistration"/>
+            <class name="testcases.TC_002Login"></class>
+        </classes>
+
+    </test>
+</suite>
